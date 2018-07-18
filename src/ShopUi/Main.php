@@ -43,12 +43,12 @@ class Main extends PluginBase implements Listener {
     public function onEnable() {
 		$this->saveDefaultConfig();
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
-        $this->getLogger()->info(TextFormat::GREEN . "ImpladShopUI is finally enabled!");
+        $this->getLogger()->info(TextFormat::GREEN . "WolfGangShopUI is finally enabled!");
 		$this->cfg = $this->getConfig();
     }
 
     public function onDisable() {
-        $this->getLogger()->info(TextFormat::RED . "ImpladeShopUI is currently dsabled!");
+        $this->getLogger()->info(TextFormat::RED . "WolfGangShopUI is currently dsabled!");
     }
    
      
