@@ -1,1 +1,224 @@
-
+#SHOP UI PRICE by FreakingDev
+#
+#ARMOR
+#
+Leather_Helmet: 25
+Leather_Chestplate: 25
+Leather_Leggings: 25
+Leather_Boots: 25
+Iron_Helmet: 100
+Iron_Chestplate: 100
+Iron_Leggings: 100
+Iron_Boots: 100
+Gold_Helmet: 50
+Gold_Chestplate: 50
+Gold_Leggings: 50
+Gold_Boots: 50
+Diamond_Helmet: 500
+Diamond_Chestplate: 500
+Diamond_Leggings: 500
+Diamond_Boots: 500
+#
+#WEAPONS
+#
+Wooden_Sword: 10
+Stone_Sword: 20
+Iron_Sword: 30
+Golden_Sword: 40
+Diamond_Sword: 50
+Bow: 1000
+Arrow: 100
+Fishing_Rod: 750
+Ender_Pearl: 500
+#
+#TOOLS
+#
+Wooden_Pickaxe: 10
+Stone_Pickaxe: 20
+Iron_Pickaxe: 30
+Golden_Pickaxe: 40
+Diamond_Pickaxe: 50
+Wooden_Shovel: 10
+Stone_Shovel: 20
+Iron_Shovel: 30
+Golden_Shovel: 40
+Diamond_Shovel: 50
+Wooden_Axe: 10
+Stone_Axe: 20
+Iron_Axe: 30
+Golden_Axe: 40
+Diamond_Axe: 50
+Wooden_Hoe: 10
+Stone_Hoe: 20
+Iron_Hoe: 30
+Golden_Hoe: 40
+Diamond_Hoe: 50
+#
+#BLOCKS
+#
+Stone: 30
+Granite: 30
+Polished_Granite: 30
+Diorite: 30
+Polished_Diorite: 30
+Andesite: 30
+Polished_Andesite: 30
+Grass: 30
+Dirt: 30
+Coarse_Dirt: 30
+Podzol: 30
+Cobblestone: 50
+Oak_wood_plank: 50
+Spruce_wood_plank: 50
+Birch_wood_plank: 10
+Jungle_wood_plank: 50
+Acacia_wood_plank: 50
+Darkoak_wood_plank: 50
+Bedrock: 9000000
+Sand: 50
+Red_Sand: 50
+Gravel: 50
+Gold_Ore: 100
+Iron_Ore: 100
+Coal_Ore: 100
+Oak_Wood: 50
+Spruce_Wood: 50
+Birch_Wood: 50
+Jungle_Wood: 50
+Sponge: 50
+Glass: 50
+Lapis_Lazuli_Ore: 100
+Lapis_Lazuli_Block: 100
+Sandstone: 50
+Chiseled_Sandstone: 50
+Smooth_Sandstone: 50
+Note_Block: 50
+White_Wool: 50
+Orange_Wool: 50
+Magenta_Wool: 50
+Light_Blue_Wool: 50
+Yellow_Wool: 50
+Lime_Wool: 50
+Pink_Wool: 50
+Gray_Wool: 50
+Light_Gray_Wool: 50
+Cyan_Wool: 50
+Purple_Wool: 50
+Blue_Wool: 50
+Brown_Wool: 50
+Green_Wool: 50
+Red_Wool: 50
+Black_Wool: 50
+Gold_Block: 500
+Iron_Block: 500
+Bricks: 50
+TNT: 5000
+Bookshelf: 50
+Moss_Stone: 50
+Obsidian: 100
+Chest: 10
+Diamond_Ore: 5000
+Diamond_Block: 5000
+Redstone_Ore: 100
+Ice: 50
+Snow_Block: 50
+Pumpkin: 50
+Netherrack: 100
+Soul_Sand: 100
+Glowstone: 50
+White_Stained_Glass: 50
+Orange_Stained_Glass: 50
+Magenta_Stained_Glass: 50
+Light_Blue_Stained_Glass: 50
+Yellow_Stained_Glass: 50
+Lime_Stained_Glass: 50
+Pink_Stained_Glass: 50
+Gray_Stained_Glass: 50
+Light_Gray_Stained_Glass: 50
+Cyan_Stained_Glass: 50
+Purple_Stained_Glass: 50
+Blue_Stained_Glass: 50
+Brown_Stained_Glass: 50
+Green_Stained_Glass: 50
+Red_Stained_Glass: 50
+Black_Stained_Glass: 50
+Nether_Brick: 100
+Enchantment_Table: 100
+End_Portal_Frame: 50
+End_Stone: 100
+Emerald_Ore: 5000
+Ender_Chest: 100
+Emerald_Block: 5000
+Beacon: 100
+Redstone_Block: 100
+Quartz_Block: 100
+White_Terracotta: 75
+Orange_Terracotta: 75
+Magenta_Terracotta: 75
+Light_Blue_Terracotta: 75
+Yellow_Terracotta: 75
+Lime_Terracotta: 75
+Pink_Terracotta: 75
+Gray_Terracotta: 75
+Light_Gray_Terracotta: 75
+Cyan_Terracotta: 75
+Purple_Terracotta: 75
+Blue_Terracotta: 75
+Brown_Terracotta: 75
+Green_Terracotta: 75
+Red_Terracotta: 75
+Black_Terracotta: 75
+Slime_Block: 100
+Prismarine: 100
+Sea_Lantern: 100
+Hay_Bale: 50
+Red_Sandstone: 50
+Chorus_Plant: 50
+Chorus_Flower: 50
+White_Glazed_Terracotta: 100
+Orange_Glazed_Terracotta: 100
+Magenta_Glazed_Terracotta: 100
+Light_Blue_Glazed_Terracotta: 100
+Yellow_Glazed_Terracotta: 100
+Lime_Glazed_Terracotta: 100
+Pink_Glazed_Terracotta: 100
+Gray_Glazed_Terracotta: 100
+Light_Gray_Glazed_Terracotta: 100
+Cyan_Glazed_Terracotta: 100
+Purple_Glazed_Terracotta: 100
+Blue_Glazed_Terracotta: 100
+Brown_Glazed_Terracotta: 100
+Green_Glazed_Terracotta: 100
+Red_Glazed_Terracotta: 100
+#
+#FOODS
+#
+Apple: 50
+Enchanted_Golden_Apple: 2000
+Golden_Apple: 500
+Pork_Chop: 50
+Steak: 50
+#
+#SPAWNERS
+#
+Spawner: 3250
+Zombie: 15000
+Chicken: 5000
+Cow: 5000
+Pig: 5000
+Sheep: 5000
+Wolf: 5000
+Iron_Golem: 350000
+Blaze: 150000
+Skeleton: 15000
+Spider: 25000
+Husk: 25000
+Zombie_Pigman: 75000
+Slime: 75000
+#
+#ITEMS
+#
+Ender_Pearl: 500
+Lava: 500
+Water: 500
+Hopper: 1500
