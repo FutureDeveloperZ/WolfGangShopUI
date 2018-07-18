@@ -1,0 +1,9 @@
+name: WolfGangShopUI
+main: ShopUI\Main
+api: [3.0.0, 3.0.4, 4.0.0]
+version: 4.0
+author: WolfKid
+
+commands:
+ shop:
+  description: "Purchase in-game items with a GUI."
